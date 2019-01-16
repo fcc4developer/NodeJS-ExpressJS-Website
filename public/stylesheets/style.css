@@ -1,0 +1,26 @@
+body {
+  padding-top: 50px;
+}
+
+.jumbotron {
+  background: url(../images/background-blur-clean-531880.jpg);
+  background-size: cover;
+}
+
+h1.jumbo, p.jumbo {
+  color:#fff;
+}
+
+h1 {
+  padding-top: 50px;
+  color: #212529;
+}
+
+footer {
+  background: #f4f4f4;
+  height: 50px;
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 10px;
+  overflow: auto;
+}
